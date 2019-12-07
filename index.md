@@ -11,7 +11,7 @@
       <p><b>地址：宇宙中心</b></p>
     </td>
     <td width="25%">
-      <img src="/touxiang.jpg" width="100%">      % 插入证件照代码
+      <img src="/touxiang.jpg" width="100%">      
     </td>
   </tr>
 </table>
